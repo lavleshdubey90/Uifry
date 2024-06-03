@@ -9,7 +9,7 @@ import Testimonials from "@/components/testimonials";
 
 export default function Home() {
   return (
-      <main className="">
+      <main className="selection:text-theme">
         <Navbar />
         <HeroSection />
         <Features />
